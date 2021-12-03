@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level
+  - Enemy
+  - QTE
+  - Pumpkin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back
+    uniqueID: 3629018911
+    locked: 0
+  - name: Enemies
+    uniqueID: 3497013459
+    locked: 0
+  - name: Player
+    uniqueID: 3983859467
+    locked: 0
+  - name: Front
+    uniqueID: 2222095119
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
